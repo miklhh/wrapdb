@@ -3,7 +3,6 @@ project(
   'cpp',
   version: '11.2.0',
   license: 'MIT WITH fmt-exception',
-  default_options: ['cpp_std=c++14'],
 )
 
 fmt_private_cpp_args = []
